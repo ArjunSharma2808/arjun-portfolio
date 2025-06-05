@@ -24,7 +24,7 @@ export default function NavigationBar() {
     skills: "/block/skills-block",
     projects: "/block/projects-block",
     resume:
-      "https://drive.google.com/file/d/1iGemOAXi8FTNwpmVurO_GuoGZMfgr_v-/view?usp=drive_link",
+      "file:///C:/Users/arjun/OneDrive/Desktop/Arjun%20Sharma.pdf",
     contact: "/block/contact-block",
   };
 
